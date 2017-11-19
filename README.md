@@ -6,6 +6,6 @@ disconnect device
 
 run getbb.sh when started up
 
-read for instructions
+sh /run/initramfs/memory/data/slax/getbb.sh
 
-/run/initramfs/memory/data/slax/getbb.sh
+read for instructions
